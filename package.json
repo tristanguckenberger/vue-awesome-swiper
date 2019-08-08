@@ -51,7 +51,7 @@
     },
     "dependencies": {
         "object-assign": "^4.1.1",
-        "swiper": "git+https://github.com/tristanguckenberger/swiper.git",
+        "swiper": "git+https://github.com/tristanguckenberger/swiper.git"
     },
     "expDependencies": {
         "node-sass": "^4.7.2",
